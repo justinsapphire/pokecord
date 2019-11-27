@@ -1,6 +1,5 @@
 {
     "prefix": "p/",
     "color": "#ffffff",
-    "token": "NDk2NDYyMDE1OTMwNDMzNTM3.DpRAaQ.VFZos1EepiNKcQ04Q7jmhwEce4I",
-    "footer": "Command list for ${message.author.username}#${message.author.descriminator}"
+    "token": ""
 }
